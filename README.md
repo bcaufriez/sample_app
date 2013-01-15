@@ -1,4 +1,5 @@
-sample_app
-==========
+# Tutoriel Ruby on Rails : Application Exemple
 
-Ruby on Rails Tutorial sample application
+C'est l'Application Exemple pour le
+[*Tutoriel Ruby on Rails : Apprendre Rails par l'exemple*](http://railstutorial.org/)
+par [Michael Hartl](http://michaelhartl.com/).
